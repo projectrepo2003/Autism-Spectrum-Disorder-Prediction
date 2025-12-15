@@ -25,7 +25,8 @@ Minimum required Python packages (as used in the notebook):
 - matplotlib
 - pickle (builtin)
 You can install the packages with:
-*pip install pandas numpy scikit-learn xgboost imbalanced-learn seaborn matplotlib*
+
+*!pip install pandas numpy scikit-learn xgboost imbalanced-learn seaborn matplotlib*
 
 ## How to run
 1. Open AutismPrediction.ipynb in Jupyter Lab / Jupyter Notebook / Google Colab.
