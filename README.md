@@ -1,5 +1,8 @@
 # Autism-Spectrum-Disorder-Prediction
 This project focuses on predicting Autism Spectrum Disorder (ASD) using machine learning techniques. It involves analyzing a dataset, training classification models, and evaluating their performance to support early and accurate ASD identification.
+<a href="https://colab.research.google.com/github/projectrepo2003/Autism-Spectrum-Disorder-Prediction/blob/main/AutismPrediction.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Key Features / Workflow
 1. Data Loading: Reads dataset from CSV (example path: drive/MyDrive/train.csv).
@@ -10,7 +13,4 @@ This project focuses on predicting Autism Spectrum Disorder (ASD) using machine 
 6. Evaluation: Uses accuracy_score, classification_report, and confusion_matrix to evaluate model performance.
 7. Model Persistence: Trains final model and saves it with pickle for later inference.
 
-<a href="https://colab.research.google.com/github/projectrepo2003/Autism-Spectrum-Disorder-Prediction/blob/main/AutismPrediction.ipynb" target="_parent">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
