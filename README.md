@@ -14,6 +14,19 @@ This project focuses on predicting Autism Spectrum Disorder (ASD) using machine 
 6. **Evaluation:** Uses accuracy_score, classification_report, and confusion_matrix to evaluate model performance.
 7. **Model Persistence:** Trains final model and saves it with pickle for later inference.
 
+## Requirements
+Minimum required Python packages (as used in the notebook):
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- imbalanced-learn
+- seaborn
+- matplotlib
+- pickle (builtin)
+You can install the packages with:
+*pip install pandas numpy scikit-learn xgboost imbalanced-learn seaborn matplotlib*
+
 ## How to run
 1. Open AutismPrediction.ipynb in Jupyter Lab / Jupyter Notebook / Google Colab.
 2. Update the dataset path if necessary (default in notebook: drive/MyDrive/train.csv).
