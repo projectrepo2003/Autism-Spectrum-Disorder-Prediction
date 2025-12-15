@@ -2,7 +2,6 @@
 This project focuses on predicting Autism Spectrum Disorder (ASD) using machine learning techniques. It involves analyzing a dataset, training classification models, and evaluating their performance to support early and accurate ASD identification.
 
 ## Key Features / Workflow
----
 1. Data Loading: Reads dataset from CSV (example path: drive/MyDrive/train.csv).
 2. Exploratory Data Analysis (EDA): Basic statistics, missing value checks, visualizations using seaborn and matplotlib.
 3. Preprocessing: Encoding categorical variables, scaling or other transformations if needed, and handling missing values.
