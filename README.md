@@ -10,5 +10,7 @@ This project focuses on predicting Autism Spectrum Disorder (ASD) using machine 
 6. Evaluation: Uses accuracy_score, classification_report, and confusion_matrix to evaluate model performance.
 7. Model Persistence: Trains final model and saves it with pickle for later inference.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/projectrepo2003/Autism-Spectrum-Disorder-Prediction/blob/main/AutismPrediction.ipynb)
+<a href="https://colab.research.google.com/github/projectrepo2003/Autism-Spectrum-Disorder-Prediction/blob/main/AutismPrediction.ipynb" target="_parent">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
