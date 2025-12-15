@@ -15,7 +15,7 @@ This project focuses on predicting Autism Spectrum Disorder (ASD) using machine 
 7. **Model Persistence:** Trains final model and saves it with pickle for later inference.
 
 ## Requirements
-Minimum required Python packages (as used in the notebook):
+Minimum required Python packages:
 - pandas
 - numpy
 - scikit-learn
