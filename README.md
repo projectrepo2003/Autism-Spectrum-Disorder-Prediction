@@ -18,3 +18,5 @@ This project focuses on predicting Autism Spectrum Disorder (ASD) using machine 
 1. Open AutismPrediction.ipynb in Jupyter Lab / Jupyter Notebook / Google Colab.
 2. Update the dataset path if necessary (default in notebook: drive/MyDrive/train.csv).
 3. Run the notebook cells in order. The notebook is organized to run step-by-step from imports → EDA → preprocessing → training → evaluation → save model.
+
+#### At the end of the notebook, the trained model is used to make predictions on new/unseen data.
